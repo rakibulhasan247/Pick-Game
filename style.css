@@ -68,12 +68,12 @@ main {
 .score {
     font-size: 8rem;
     font-weight: 300;
-    color: #ffed4a;
+    color: #ffe600;
     margin-bottom: auto;
 }
 
 .player--active {
-    background-color: #f3fdff66;
+    background-color: #cae1f866;
 }
 
 .player--active .name {
